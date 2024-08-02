@@ -1,0 +1,11 @@
+/home/popica/Desktop/Dinely/Backend/Dinely.Contracts/bin/Debug/net8.0/Dinely.Contracts.deps.json
+/home/popica/Desktop/Dinely/Backend/Dinely.Contracts/bin/Debug/net8.0/Dinely.Contracts.dll
+/home/popica/Desktop/Dinely/Backend/Dinely.Contracts/bin/Debug/net8.0/Dinely.Contracts.pdb
+/home/popica/Desktop/Dinely/Backend/Dinely.Contracts/obj/Debug/net8.0/Dinely.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/popica/Desktop/Dinely/Backend/Dinely.Contracts/obj/Debug/net8.0/Dinely.Contracts.AssemblyInfoInputs.cache
+/home/popica/Desktop/Dinely/Backend/Dinely.Contracts/obj/Debug/net8.0/Dinely.Contracts.AssemblyInfo.cs
+/home/popica/Desktop/Dinely/Backend/Dinely.Contracts/obj/Debug/net8.0/Dinely.Contracts.csproj.CoreCompileInputs.cache
+/home/popica/Desktop/Dinely/Backend/Dinely.Contracts/obj/Debug/net8.0/Dinely.Contracts.dll
+/home/popica/Desktop/Dinely/Backend/Dinely.Contracts/obj/Debug/net8.0/refint/Dinely.Contracts.dll
+/home/popica/Desktop/Dinely/Backend/Dinely.Contracts/obj/Debug/net8.0/Dinely.Contracts.pdb
+/home/popica/Desktop/Dinely/Backend/Dinely.Contracts/obj/Debug/net8.0/ref/Dinely.Contracts.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZR/gxXJSHEi1Zfddi+0SKN4xhy/vjN6+sDJvpsLAD6NkEL2BBYgh7W/0i1bWATRuQLoliam3uBnJZ6qmjJQtjQ==",
+  "success": true,
+  "projectFilePath": "/home/popica/Desktop/Dinely/Backend/Dinely.Domain/Dinely.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/popica/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
+    "/home/popica/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/home/popica/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

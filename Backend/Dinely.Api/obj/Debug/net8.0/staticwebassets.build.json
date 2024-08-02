@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "scYzuIZBTNpoUu7ITfMy6HzAymu25WzKt8PYJzg3zPw=",
+  "Source": "Dinely.Api",
+  "BasePath": "_content/Dinely.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

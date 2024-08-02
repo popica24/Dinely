@@ -1,0 +1,12 @@
+/home/popica/Desktop/Dinely/Backend/Dinely.Domain/bin/Debug/net8.0/Dinely.Domain.deps.json
+/home/popica/Desktop/Dinely/Backend/Dinely.Domain/bin/Debug/net8.0/Dinely.Domain.dll
+/home/popica/Desktop/Dinely/Backend/Dinely.Domain/bin/Debug/net8.0/Dinely.Domain.pdb
+/home/popica/Desktop/Dinely/Backend/Dinely.Domain/obj/Debug/net8.0/Dinely.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/popica/Desktop/Dinely/Backend/Dinely.Domain/obj/Debug/net8.0/Dinely.Domain.AssemblyInfoInputs.cache
+/home/popica/Desktop/Dinely/Backend/Dinely.Domain/obj/Debug/net8.0/Dinely.Domain.AssemblyInfo.cs
+/home/popica/Desktop/Dinely/Backend/Dinely.Domain/obj/Debug/net8.0/Dinely.Domain.csproj.CoreCompileInputs.cache
+/home/popica/Desktop/Dinely/Backend/Dinely.Domain/obj/Debug/net8.0/Dinely.Domain.dll
+/home/popica/Desktop/Dinely/Backend/Dinely.Domain/obj/Debug/net8.0/refint/Dinely.Domain.dll
+/home/popica/Desktop/Dinely/Backend/Dinely.Domain/obj/Debug/net8.0/Dinely.Domain.pdb
+/home/popica/Desktop/Dinely/Backend/Dinely.Domain/obj/Debug/net8.0/ref/Dinely.Domain.dll
+/home/popica/Desktop/Dinely/Backend/Dinely.Domain/obj/Debug/net8.0/Dinely.Domain.csproj.AssemblyReference.cache
