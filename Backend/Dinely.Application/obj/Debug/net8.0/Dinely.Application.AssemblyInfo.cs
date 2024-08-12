@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dinely.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08ee5a91fab379f70d3f33a46aff6a02823d1b68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83671a721168e94c674433b7ae906def1e100975")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dinely.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dinely.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,7 +12,7 @@ builder.Services
 
 var app = builder.Build();
 
-app.UseExceptionHandler("/api/error");
+// app.UseExceptionHandler("/api/error");
 
 app.UseAuthentication();
 

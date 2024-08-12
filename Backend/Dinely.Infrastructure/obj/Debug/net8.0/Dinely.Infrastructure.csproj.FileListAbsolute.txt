@@ -17,3 +17,4 @@
 /home/popica/Desktop/Dinely/Backend/Dinely.Infrastructure/obj/Debug/net8.0/Dinely.Infrastructure.csproj.CopyComplete
 /home/popica/Desktop/Dinely/Backend/Dinely.Infrastructure/bin/Debug/net8.0/Dinely.Infrastructure.runtimeconfig.json
 /home/popica/Desktop/Dinely/Backend/Dinely.Infrastructure/obj/Debug/net8.0/Dinely.Infrastructure.genruntimeconfig.cache
+/home/popica/Desktop/Dinely/Backend/Dinely.Infrastructure/obj/Debug/net8.0/Dinely.Infrastructure.sourcelink.json

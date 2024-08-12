@@ -10,3 +10,4 @@
 /home/popica/Desktop/Dinely/Backend/Dinely.Domain/obj/Debug/net8.0/Dinely.Domain.pdb
 /home/popica/Desktop/Dinely/Backend/Dinely.Domain/obj/Debug/net8.0/ref/Dinely.Domain.dll
 /home/popica/Desktop/Dinely/Backend/Dinely.Domain/obj/Debug/net8.0/Dinely.Domain.csproj.AssemblyReference.cache
+/home/popica/Desktop/Dinely/Backend/Dinely.Domain/obj/Debug/net8.0/Dinely.Domain.sourcelink.json
